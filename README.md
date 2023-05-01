@@ -14,5 +14,8 @@
  
 
 ## Lectures
+The lectures are in the above PDF files.
+<!--
 - **Lecture 1** 
   - File "DA-01.pdf" https://raw.githubusercontent.com/fcai-b/da/main/DA-01.pdf
+-->
