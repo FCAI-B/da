@@ -1,5 +1,6 @@
 # DA
 
+<!--
 #### Quizzes
 ```diff
 + "Chapter 4 Quiz" is now open. We have to solve it before 13 May.
@@ -7,7 +8,7 @@
   - (to be able to take this assessment, we need to do the End of Course Survey first)
 + Oral degrees will depend on these online quizzes.
 ```
-
+-->
 <!--
 ```diff
 + كل عام وانتم بخير
