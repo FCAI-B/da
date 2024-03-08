@@ -11,8 +11,9 @@ If you are not added, please send an email from your Academic mail (ended by fci
 - Your level (4th, 3rd, 2nd, ...)
 - Your course name (Cloud, Data Analytics, ...)
   
- ```diff
+```diff
 - After being added to AWS Academy, please keep your email and Arabic Full name as it is
++ The purpose of the previous point is to be sure you have your correct degrees based on your work in the course 
 ``` 
 
 
