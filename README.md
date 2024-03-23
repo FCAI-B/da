@@ -1,6 +1,10 @@
 # DA
 
 ### Tasks to do
+Please do the following labs (<ins>deadline **6 April**</ins>)
+```diff
+-  Module 4 Lab: Querying Data by Using Athena
+```
 Please do the following labs (<ins>deadline **23 March**</ins>)
 ```diff
 -  Module 2 Lab: Accessing and Analyzing Data by Using Amazon S3
