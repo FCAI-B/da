@@ -1,7 +1,7 @@
 # DA
 
 ### Tasks to do
-Please do the following labs (<ins>deadline **6 April**</ins>)
+Please do the following labs (<ins>deadline **31 March**</ins>)
 ```diff
 -  Module 4 Lab: Querying Data by Using Athena
 ```
