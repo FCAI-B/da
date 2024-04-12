@@ -1,10 +1,19 @@
 # DA
 
+```diff
+-  The next lectures will be on 22 April at "Modareg 5", Insha Allah. 
+```
+
+
+<!--
 ### Tasks to do
+-->
+<!--
 Please do the following labs (<ins>deadline **31 March**</ins>)
 ```diff
 -  Module 4 Lab: Querying Data by Using Athena
 ```
+-->
 
 <!--
 Please do the following labs (<ins>deadline **23 March**</ins>)
@@ -13,9 +22,11 @@ Please do the following labs (<ins>deadline **23 March**</ins>)
 ```
 -->
 
+<!--
 ### Zoom
 - https://us05web.zoom.us/j/82861851614?pwd=1KCjaJbmRJvzLje2Kab3MuZVXNMuSL.1
 - Saturday 04:00 pm
+-->
 
 ### Adding to AWS Academy
 If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
