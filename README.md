@@ -11,7 +11,7 @@ Please do the following labs (<ins>deadline **3 May**</ins>)
 ```diff
 +  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
 ```
-
+---
 
 <!--
 ### Tasks to do
