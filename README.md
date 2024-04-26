@@ -1,7 +1,15 @@
 # DA
 
+### Tasks to do
+Please do the following labs (<ins>deadline **3 May**</ins>)
 ```diff
--  The next lectures will be on 22 April at "Modareg 5", Insha Allah. 
+-  Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue
+```
+---
+
+
+```diff
++  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
 ```
 
 
