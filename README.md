@@ -1,17 +1,31 @@
 # DA
 
 ### Tasks to do
+Please do the following labs (<ins>deadline **15 May**</ins>)
+```diff
++  Module 8 Lab: Storing and Analyzing Data by Using Amazon Redshift
+-  Capstone project (important)
+```
+
 Please do the following labs (<ins>deadline **3 May**</ins>)
 ```diff
--  Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue
++  Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue
 ```
+
+```diff
++  To get a bonus (such as for the Midterm Exam), please complete as many labs and knowledge checks as you can.
+!  To get the certificate (from AWS Academy), please finish all labs, knowledge checks, and the course assessment.
+- Oral degrees are based on the online tasks
+```
+
 ---
 
-
+<!--
 ```diff
 +  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
 ```
 ---
+-->
 
 <!--
 ### Tasks to do
