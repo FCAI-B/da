@@ -1,15 +1,12 @@
 # DA
 
+### We have finished our lectures. 
+
 ### Tasks to do
 Please do the following labs (<ins>deadline **15 May**</ins>)
 ```diff
 +  Module 8 Lab: Storing and Analyzing Data by Using Amazon Redshift
 -  Capstone project (important)
-```
-
-Please do the following labs (<ins>deadline **3 May**</ins>)
-```diff
-+  Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue
 ```
 
 ```diff
@@ -19,6 +16,13 @@ Please do the following labs (<ins>deadline **3 May**</ins>)
 ```
 
 ---
+
+<!--
+Please do the following labs (<ins>deadline **3 May**</ins>)
+```diff
++  Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue
+```
+-->
 
 <!--
 ```diff
