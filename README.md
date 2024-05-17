@@ -1,7 +1,18 @@
 # DA
 
-### We have finished our lectures. 
+### Bonus Bdeadline: **24 May**
 
+```diff
++ To get a bonus (such as for the Midterm Exam), please complete as many labs and knowledge checks as you can.
+- Important: labs and knowledge checks that are not asked during the semester.
++ Labs have higher degrees.
+```
+To get the certificate (from AWS Academy), please finish all labs, knowledge checks, and the course assessment.
+---
+
+<!--
+Oral degrees are based on the online tasks
+<ins>Bdeadline **24 May**</ins>)
 ### Tasks to do
 Please do the following labs (<ins>deadline **15 May**</ins>)
 ```diff
@@ -9,15 +20,6 @@ Please do the following labs (<ins>deadline **15 May**</ins>)
 -  Capstone project (important)
 ```
 
-```diff
-+  To get a bonus (such as for the Midterm Exam), please complete as many labs and knowledge checks as you can.
-!  To get the certificate (from AWS Academy), please finish all labs, knowledge checks, and the course assessment.
-- Oral degrees are based on the online tasks
-```
-
----
-
-<!--
 Please do the following labs (<ins>deadline **3 May**</ins>)
 ```diff
 +  Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue
